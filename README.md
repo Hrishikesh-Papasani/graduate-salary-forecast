@@ -58,6 +58,7 @@ This project aims to develop predictive models and uncover essential insights to
 
 ## Author
 Made by **Hrishikesh Reddy Papasani**
+
 Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hrishikesh-reddy-papasani-02110725a/)
 
 ## Sources
