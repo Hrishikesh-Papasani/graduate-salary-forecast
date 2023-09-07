@@ -1,7 +1,7 @@
 # Graduate Salary Prediction Project
 
 
-<img src="https://thecleverprogrammer.com/wp-content/uploads/2022/10/Salary-Prediction-with-Machine-Learning.png" alt = "Project_image" width="600" height="300">
+<img src="https://thecleverprogrammer.com/wp-content/uploads/2022/10/Salary-Prediction-with-Machine-Learning.png" alt = "Project_image" width="600" height="350">
 
 
 ## Overview
