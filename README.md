@@ -64,3 +64,10 @@ Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hrishikesh-r
 ## Sources
 - Dataset Source: [Kaggle](https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction)
 
+
+## Author
+Made by **Hrishikesh Reddy Papasani**
+Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hrishikesh-reddy-papasani-02110725a/)
+<br>
+Contact at hrpapasani@gmail.com
+
